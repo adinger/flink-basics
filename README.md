@@ -15,5 +15,5 @@ https://www.apache.org/dyn/closer.lua/flink/flink-1.12.0/flink-1.12.0-bin-scala_
 ### Run Steps
 
 ```
-java -jar mapreduce-flink-*.jar
+java -jar target/mapreduce-flink-*.jar
 ```
