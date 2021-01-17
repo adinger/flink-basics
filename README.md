@@ -1,4 +1,4 @@
-# MapReduce using Flink [WIP]
+# Flink Basics [WIP]
 
 This code goes with my [MapReduce Tutorial Series](https://angela-ding3.medium.com/mapreduce-overview-1cebd449de76)
 
